@@ -1,0 +1,27 @@
+.cross {
+   display: flex;
+   flex-direction: column;
+   align-self: flex-start;
+   justify-content: center;
+   height: 16px;
+   width: 16px;
+   margin-top: 14px;
+   margin-left: 5px;
+   cursor: pointer;
+}
+
+.horizontal-cross {
+    background-color: #144e69;
+    height: 5px;
+    width: 16px;
+    border: none;
+    align-self: center;
+}
+
+.vertical-cross {
+    background-color: #144e69;
+    width: 5px;
+    height: 4.5px;
+    border: none;
+    align-self: center;
+}

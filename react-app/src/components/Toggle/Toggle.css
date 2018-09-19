@@ -1,0 +1,37 @@
+#mainToggle {
+    height: 60px;
+    width: 60px; 
+    background-color: #144e69;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#toggleInside {
+    height: 45px;
+    width: 45px; 
+    background-color: #144e69;
+    border-radius: 50%;
+    border: 3px solid #14354c;
+}
+
+.middle-toggle-row {
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vertical-blocks{
+    width: 2px;
+    height: 3.5px;
+    background-color: #14354c;
+}
+
+.horizontal-blocks {
+    width: 3.5px;
+    height: 2px;
+    background-color:  #14354c;
+}

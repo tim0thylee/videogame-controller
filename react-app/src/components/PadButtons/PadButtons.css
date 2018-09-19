@@ -1,0 +1,60 @@
+.pad-buttons {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.individual-buttons {
+    height: 25px;
+    width: 25px;
+    background-color: #144e69;
+    border-radius: 50%;
+    border: 2px solid #14354c;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.middle-buttons {
+    display: flex;
+    width: 90px;
+    justify-content: space-between;
+}
+
+.up-button {
+    width: 0;
+	height: 0;
+	border-left: 6.5px solid transparent;
+	border-right: 6.5px solid transparent;
+    border-bottom: 13px solid #14354c;
+}
+
+.left-button {
+    width: 0;
+    height: 0;
+    border-top: 6.5px solid transparent;
+    border-right: 13px solid  #14354c;
+    border-bottom: 6.5px solid transparent;
+}
+
+.right-button {
+    width: 0;
+    height: 0;
+    border-top: 6.5px solid transparent;
+    border-left: 13px solid  #14354c;
+    border-bottom: 6.5px solid transparent;
+}
+
+.down-button {
+    width: 0;
+    height: 0;
+    border-left: 6.5px solid transparent;
+    border-right: 6.5px solid  transparent;
+    border-top: 13px solid #14354c;
+}
+
+

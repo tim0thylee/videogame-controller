@@ -1,0 +1,9 @@
+.square {
+    background-color: #144e69;
+    width: 16px;
+    height: 16px;
+    align-self: flex-end;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    cursor: pointer;
+}

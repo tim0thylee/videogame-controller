@@ -1,0 +1,10 @@
+.small-circle {
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background-color: #144e69;
+    align-self: flex-start;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    cursor: pointer;
+}

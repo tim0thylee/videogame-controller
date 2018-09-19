@@ -1,0 +1,10 @@
+.rectangle {
+    background-color: #144e69;
+    height: 5px;
+    width: 16px;
+    align-self: flex-end;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}
